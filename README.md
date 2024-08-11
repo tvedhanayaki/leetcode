@@ -36,5 +36,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0022-generate-parentheses](https://github.com/tvedhanayaki/leetcode/tree/master/0022-generate-parentheses) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/tvedhanayaki/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/tvedhanayaki/leetcode/tree/master/0022-generate-parentheses) |
+## Backtracking
+|  |
+| ------- |
+| [0022-generate-parentheses](https://github.com/tvedhanayaki/leetcode/tree/master/0022-generate-parentheses) |
 <!---LeetCode Topics End-->
