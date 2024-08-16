@@ -41,11 +41,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [0778-reorganize-string](https://github.com/tvedhanayaki/leetcode/tree/master/0778-reorganize-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/tvedhanayaki/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## String
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tvedhanayaki/leetcode/tree/master/0022-generate-parentheses) |
+| [0778-reorganize-string](https://github.com/tvedhanayaki/leetcode/tree/master/0778-reorganize-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/tvedhanayaki/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
 |  |
@@ -75,4 +77,20 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tvedhanayaki/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+## Greedy
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/tvedhanayaki/leetcode/tree/master/0778-reorganize-string) |
+## Sorting
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/tvedhanayaki/leetcode/tree/master/0778-reorganize-string) |
+## Heap (Priority Queue)
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/tvedhanayaki/leetcode/tree/master/0778-reorganize-string) |
+## Counting
+|  |
+| ------- |
+| [0778-reorganize-string](https://github.com/tvedhanayaki/leetcode/tree/master/0778-reorganize-string) |
 <!---LeetCode Topics End-->
