@@ -65,10 +65,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/tvedhanayaki/leetcode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/tvedhanayaki/leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/tvedhanayaki/leetcode/tree/master/0078-subsets) |
+| [1835-decode-xored-permutation](https://github.com/tvedhanayaki/leetcode/tree/master/1835-decode-xored-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/tvedhanayaki/leetcode/tree/master/0078-subsets) |
+| [1835-decode-xored-permutation](https://github.com/tvedhanayaki/leetcode/tree/master/1835-decode-xored-permutation) |
 ## Two Pointers
 |  |
 | ------- |
