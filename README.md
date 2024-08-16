@@ -53,6 +53,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tvedhanayaki/leetcode/tree/master/0022-generate-parentheses) |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/tvedhanayaki/leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Backtracking
 |  |
 | ------- |
@@ -68,11 +69,13 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0047-permutations-ii](https://github.com/tvedhanayaki/leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/tvedhanayaki/leetcode/tree/master/0078-subsets) |
 | [1835-decode-xored-permutation](https://github.com/tvedhanayaki/leetcode/tree/master/1835-decode-xored-permutation) |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/tvedhanayaki/leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0078-subsets](https://github.com/tvedhanayaki/leetcode/tree/master/0078-subsets) |
 | [1835-decode-xored-permutation](https://github.com/tvedhanayaki/leetcode/tree/master/1835-decode-xored-permutation) |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/tvedhanayaki/leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Two Pointers
 |  |
 | ------- |
@@ -93,4 +96,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0778-reorganize-string](https://github.com/tvedhanayaki/leetcode/tree/master/0778-reorganize-string) |
+## Bitmask
+|  |
+| ------- |
+| [3431-find-the-minimum-cost-array-permutation](https://github.com/tvedhanayaki/leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 <!---LeetCode Topics End-->
