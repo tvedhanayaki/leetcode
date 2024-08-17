@@ -57,6 +57,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tvedhanayaki/leetcode/tree/master/0022-generate-parentheses) |
+| [0053-maximum-subarray](https://github.com/tvedhanayaki/leetcode/tree/master/0053-maximum-subarray) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/tvedhanayaki/leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Backtracking
 |  |
@@ -72,6 +73,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/tvedhanayaki/leetcode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/tvedhanayaki/leetcode/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/tvedhanayaki/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/tvedhanayaki/leetcode/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/tvedhanayaki/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/tvedhanayaki/leetcode/tree/master/0079-word-search) |
@@ -130,4 +132,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0054-spiral-matrix](https://github.com/tvedhanayaki/leetcode/tree/master/0054-spiral-matrix) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/tvedhanayaki/leetcode/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
