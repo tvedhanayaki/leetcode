@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0002-add-two-numbers](https://github.com/tvedhanayaki/leetcode/tree/master/0002-add-two-numbers) |
+| [0189-rotate-array](https://github.com/tvedhanayaki/leetcode/tree/master/0189-rotate-array) |
 ## Recursion
 |  |
 | ------- |
@@ -78,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0078-subsets](https://github.com/tvedhanayaki/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/tvedhanayaki/leetcode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/tvedhanayaki/leetcode/tree/master/0179-largest-number) |
+| [0189-rotate-array](https://github.com/tvedhanayaki/leetcode/tree/master/0189-rotate-array) |
 | [0200-number-of-islands](https://github.com/tvedhanayaki/leetcode/tree/master/0200-number-of-islands) |
 | [1835-decode-xored-permutation](https://github.com/tvedhanayaki/leetcode/tree/master/1835-decode-xored-permutation) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/tvedhanayaki/leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
@@ -92,6 +94,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/tvedhanayaki/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0151-reverse-words-in-a-string](https://github.com/tvedhanayaki/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0189-rotate-array](https://github.com/tvedhanayaki/leetcode/tree/master/0189-rotate-array) |
 ## Greedy
 |  |
 | ------- |
