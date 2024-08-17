@@ -72,6 +72,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0039-combination-sum](https://github.com/tvedhanayaki/leetcode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/tvedhanayaki/leetcode/tree/master/0047-permutations-ii) |
+| [0054-spiral-matrix](https://github.com/tvedhanayaki/leetcode/tree/master/0054-spiral-matrix) |
 | [0078-subsets](https://github.com/tvedhanayaki/leetcode/tree/master/0078-subsets) |
 | [0079-word-search](https://github.com/tvedhanayaki/leetcode/tree/master/0079-word-search) |
 | [0179-largest-number](https://github.com/tvedhanayaki/leetcode/tree/master/0179-largest-number) |
@@ -114,6 +115,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Matrix
 |  |
 | ------- |
+| [0054-spiral-matrix](https://github.com/tvedhanayaki/leetcode/tree/master/0054-spiral-matrix) |
 | [0079-word-search](https://github.com/tvedhanayaki/leetcode/tree/master/0079-word-search) |
 | [0200-number-of-islands](https://github.com/tvedhanayaki/leetcode/tree/master/0200-number-of-islands) |
 ## Breadth-First Search
@@ -124,4 +126,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0200-number-of-islands](https://github.com/tvedhanayaki/leetcode/tree/master/0200-number-of-islands) |
+## Simulation
+|  |
+| ------- |
+| [0054-spiral-matrix](https://github.com/tvedhanayaki/leetcode/tree/master/0054-spiral-matrix) |
 <!---LeetCode Topics End-->
