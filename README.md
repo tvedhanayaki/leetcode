@@ -47,6 +47,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0022-generate-parentheses](https://github.com/tvedhanayaki/leetcode/tree/master/0022-generate-parentheses) |
+| [0179-largest-number](https://github.com/tvedhanayaki/leetcode/tree/master/0179-largest-number) |
 | [0778-reorganize-string](https://github.com/tvedhanayaki/leetcode/tree/master/0778-reorganize-string) |
 | [1960-check-if-the-sentence-is-pangram](https://github.com/tvedhanayaki/leetcode/tree/master/1960-check-if-the-sentence-is-pangram) |
 ## Dynamic Programming
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0039-combination-sum](https://github.com/tvedhanayaki/leetcode/tree/master/0039-combination-sum) |
 | [0047-permutations-ii](https://github.com/tvedhanayaki/leetcode/tree/master/0047-permutations-ii) |
 | [0078-subsets](https://github.com/tvedhanayaki/leetcode/tree/master/0078-subsets) |
+| [0179-largest-number](https://github.com/tvedhanayaki/leetcode/tree/master/0179-largest-number) |
 | [1835-decode-xored-permutation](https://github.com/tvedhanayaki/leetcode/tree/master/1835-decode-xored-permutation) |
 | [3431-find-the-minimum-cost-array-permutation](https://github.com/tvedhanayaki/leetcode/tree/master/3431-find-the-minimum-cost-array-permutation) |
 ## Bit Manipulation
@@ -83,10 +85,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/tvedhanayaki/leetcode/tree/master/0179-largest-number) |
 | [0778-reorganize-string](https://github.com/tvedhanayaki/leetcode/tree/master/0778-reorganize-string) |
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/tvedhanayaki/leetcode/tree/master/0179-largest-number) |
 | [0778-reorganize-string](https://github.com/tvedhanayaki/leetcode/tree/master/0778-reorganize-string) |
 ## Heap (Priority Queue)
 |  |
